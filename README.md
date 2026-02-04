@@ -22,4 +22,5 @@ Python, Pandas, PyTorch, Hugging Face Transformers, NumPy
 
 📌 Output
 
-The model predicts the sentiment of a movie review and outputs whether the review is Positive or Negative.
+The model predicts the sentiment of a movie review and outputs whether the review is Positive or Negative 
+Final Accuracy: 93.02% .
